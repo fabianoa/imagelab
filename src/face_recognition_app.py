@@ -52,8 +52,7 @@ while True:
     #for k, d in enumerate(rects):
         #print("Detection {}: Left: {} Top: {} Right: {} Bottom: {}".format(
         #    k, d.left(), d.top(), d.right(), d.bottom()))
-
-    
+  
 
     win.clear_overlay()
     win.set_image(image)
